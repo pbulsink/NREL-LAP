@@ -5,4 +5,4 @@ NREL develops laboratory analytical procedures (LAPs) to provide validated metho
 * [Bio-Oil Analysis](./bio-oil-analysis.md) - These lab procedures allow for the analysis of raw and upgraded pyrolysis bio-oils.
 * [Algae Compositional Analysis](./algae-analysis.md) - These lab procedures help scientists and researchers understand more about chemical composition of algae as a feedstock to convert to biofuels.
 
-All text and documents downloaded 2025-02-10.
+This page is a copy of [the original from NREL](https://www.nrel.gov/bioenergy/laboratory-analytical-procedures.html) made 10 February 2025.
